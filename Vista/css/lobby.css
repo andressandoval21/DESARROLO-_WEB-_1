@@ -1,0 +1,35 @@
+body{
+    margin: 10%;
+}
+
+.contenido{
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    padding: 40px 40px;
+    width: 80%;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.3);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: auto;
+
+}
+label {
+    padding-right: 10px;
+    font-size: 1rem;
+}
+.numero_sala{
+    text-align: right;
+    color: rgb(0, 255, 0);
+}
+.salir_sala{
+    font-size: 20px;
+    border-radius: 12px;
+    border-color: rgb(70, 252, 15);
+    width: 100px;
+    align-content: left;
+
+}
